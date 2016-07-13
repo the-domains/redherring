@@ -6,9 +6,9 @@ color:
   saturation: 0.006719805533066392
   rhythmicContrast: 0.2603872132021934
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: RedHerring
