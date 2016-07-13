@@ -1,0 +1,14 @@
+layout_spectrum: 0.31049674935638905
+typography_spectrum: 0.16028014826588333
+color:
+  brandStrength: 0.9035365215968341
+  lightness: 0.7609489504247904
+  saturation: 0.006719805533066392
+  rhythmicContrast: 0.2603872132021934
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: RedHerring
